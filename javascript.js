@@ -1,6 +1,3 @@
-var _ = require('lodash');
-console.log(_);
-
 var color1=document.getElementById("color1");
 var color2=document.getElementById("color2");
 var hold=document.getElementById("place");
