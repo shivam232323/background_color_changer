@@ -1,0 +1,17 @@
+#bodye{
+	text-align: center;
+	align-items: center;
+	text-transform: uppercase;
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 38px;
+	margin-top: -49px;
+	background:linear-gradient(to left,yellow,pink);
+	letter-spacing: 8px;
+}
+#button{
+	color: red;
+	background:linear-gradient(to left,#ffe259,#ffa751);
+	padding: 4px;
+	text-transform: uppercase;
+
+}
